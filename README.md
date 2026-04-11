@@ -1,1 +1,1 @@
-# Data-analyst-101
+#Analytical skill development
